@@ -6,7 +6,7 @@ BR에 오신것을 환영합니다.
     * 라라벨에 명시된 홈스테드 환경 대신 XAMPP를 사용한다
       * XAMPP 설치
       * SYMPHONY 설치
-      * XAMPP + SYMPHONY 환경 구성 [참조링크](https://www.codementor.io/magarrent/how-to-install-laravel-5-xampp-windows-du107u9ji)
+      * XAMPP + SYMPHONY 환경 구성 [참조링크](https://www.codementor.io/magarrent/how-to-install-laravel-5-xampp-windows-du107u9ji)
   * INDEX 꾸미기
   * MYSQL 연습
     * [MYSQL 튜토리얼1](http://www.w3big.com/ko/mysql/default.html)
