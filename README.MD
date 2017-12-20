@@ -8,7 +8,7 @@ BR에 오신것을 환영합니다.
       * SYMPHONY 설치
       * XAMPP + SYMPHONY 환경 구성 [참조링크](https://www.codementor.io/magarrent/how-to-install-laravel-5-xampp-windows-du107u9ji)
       * 다음처럼 나오면 정상
-      * [그림]
+      ![Image](./img/laravel.PNG)
   * INDEX 꾸미기
   * MYSQL 연습
     * [MYSQL 튜토리얼1](http://www.w3big.com/ko/mysql/default.html)
